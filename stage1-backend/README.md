@@ -37,5 +37,5 @@ A **RESTful API service** that analyzes strings and computes various properties 
 
 ```bash
 # Clone the repository
-git clone https://github.com/EMarvelM/hng-stage1-backend.git
+git clone https://github.com/dhami/hng-stage1-backend.git
 cd hng-stage1-backend
